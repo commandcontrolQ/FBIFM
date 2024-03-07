@@ -1,3 +1,15 @@
+# Please read
+
+This repository is an archive of FBI, which is a file manager for 3DS systems.
+
+The original creator's Github account (Steveice10) was terminated on March 5th 2024, which is likely due to their involvement in the development of **[3DS emulator that is now unavailable]**.
+
+For preservation purposes, and to prevent the 3DS modding scene from (ever) fading, I have decided to reupload the repository as it stood a day before it was gone.
+
+**Piracy is, was, and always will be illegal.**
+
+**The use of FBI to pirate titles will NEVER be condoned or supported.**
+
 # FBI
 
 FBI is an open source title manager for the 3DS.
